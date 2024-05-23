@@ -1,4 +1,4 @@
-Finding minimum width of the layers of the network
+Finding minimum width of the layers of the network by truncated SVD autoencoder approach
 
 SOLVER-wide.py    :
 train and find minimum layer size with cross-validation, C=3:
