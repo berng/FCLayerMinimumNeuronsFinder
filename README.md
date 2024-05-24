@@ -18,3 +18,5 @@ train with minimum layer sizes of transform1 and transform2 layers:
 CompareModels.py:
  compare two ensembles of the models, created by SOLVER-wide.py and SOLVER-opt.py
 
+Algorithm description:
+https://arxiv.org/abs/2405.14147
